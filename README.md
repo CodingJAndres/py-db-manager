@@ -14,7 +14,7 @@
 1. **Clona o descarga el repositorio:**
 
     ```bash
-    git clone https://github.com/tu_usuario/py-db-manager.git
+    https://github.com/CodingJAndres/py-db-manager.git
     ```
 
 2. **Navega al directorio del proyecto:**
